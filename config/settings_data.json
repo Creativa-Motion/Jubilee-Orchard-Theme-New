@@ -320,7 +320,7 @@
           "0e230e7e-d1a6-4856-bef9-1c80e6a02be5": {
             "type": "html",
             "settings": {
-              "code": "<div class=\"customSectionHome\">\n<h2>SUMUN ETNA<\/h2>\n<div class=\"customSectionHome-cols-container\">\n<div class=\"customSectionHome-col\">\n<img src=\"\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<div class=\"customSectionHome-col\">\n<img src=\"\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<div class=\"customSectionHome-col\">\n<img src=\"\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<\/div>\n<\/div>",
+              "code": "<div class=\"customSectionHome\">\n<h2>SUMUN ETNA<\/h2>\n<div class=\"customSectionHome-cols-container\">\n<div class=\"customSectionHome-col\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0553\/8588\/2647\/files\/blogImage1.jpg?v=1637892966\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<div class=\"customSectionHome-col\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0553\/8588\/2647\/files\/blogImage2.jpg?v=1637892966\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<div class=\"customSectionHome-col\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0553\/8588\/2647\/files\/blogImage3.jpg?v=1637892966\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<\/div>\n<\/div>",
               "width": "100%"
             }
           }
