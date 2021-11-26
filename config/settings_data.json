@@ -317,34 +317,15 @@
       "1637954020a6d00b81": {
         "type": "custom-content",
         "blocks": {
-          "1637954020a6d00b81-0": {
-            "type": "text",
-            "settings": {
-              "title": "Talk about your brand",
-              "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-              "width": "33%",
-              "alignment": "center",
-              "align_text": "left"
-            }
-          },
-          "1637954020a6d00b81-1": {
-            "type": "image",
-            "settings": {
-              "width": "33%",
-              "alignment": "center"
-            }
-          },
           "0e230e7e-d1a6-4856-bef9-1c80e6a02be5": {
             "type": "html",
             "settings": {
-              "code": "<div><p>test<\/p><\/div>",
-              "width": "33%"
+              "code": "<div class=\"customSectionHome\">\n<h2>SUMUN ETNA<\/h2>\n<div class=\"customSectionHome-cols-container\">\n<div class=\"customSectionHome-col\">COL<\/div>\n<div class=\"customSectionHome-col\">COL<\/div>\n<div class=\"customSectionHome-col\">COL<\/div>\n<\/div>\n<\/div>",
+              "width": "100%"
             }
           }
         },
         "block_order": [
-          "1637954020a6d00b81-0",
-          "1637954020a6d00b81-1",
           "0e230e7e-d1a6-4856-bef9-1c80e6a02be5"
         ],
         "settings": {
