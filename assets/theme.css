@@ -8893,3 +8893,9 @@ hr {
   background-color: transparent;
   border: 1px solid;
 }
+
+.slideshow__text-content.slideshow__text-content--vertical-center.text-right
+  .page-width {
+  width: 100%;
+  padding: 0 5%;
+}
