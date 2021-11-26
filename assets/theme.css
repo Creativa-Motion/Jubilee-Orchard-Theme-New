@@ -8887,3 +8887,9 @@ hr {
   justify-content: flex-end;
   margin-left: auto;
 }
+
+.hero__btn {
+  margin-top: 450px;
+  background-color: transparent;
+  border: 1px solid;
+}
