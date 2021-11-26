@@ -267,53 +267,6 @@
           "align_text": "center"
         }
       },
-      "16378928690d611bdd": {
-        "type": "feature-columns",
-        "blocks": {
-          "16378928690d611bdd-0": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "image": "shopify:\/\/shop_images\/blogImage1.jpg",
-              "title": "LOREM ETNAS CUANT",
-              "text": "<p>Lorem ipsum dolor sit amet unas <\/p>",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
-          "16378928690d611bdd-1": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "image": "shopify:\/\/shop_images\/blogImage2.jpg",
-              "title": "LOREM ETNAS CUANT",
-              "text": "<p>Lorem ipsum dolor sit amet unas <\/p>",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
-          "16378928690d611bdd-2": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "image": "shopify:\/\/shop_images\/blogImage1.jpg",
-              "title": "LOREM ETNAS CUANT",
-              "text": "<p>Lorem ipsum dolor sit amet unas <\/p>",
-              "button_label": "",
-              "button_link": ""
-            }
-          }
-        },
-        "block_order": [
-          "16378928690d611bdd-0",
-          "16378928690d611bdd-1",
-          "16378928690d611bdd-2"
-        ],
-        "settings": {
-          "title": "SUMUN ETNA",
-          "align_text": "center"
-        }
-      },
       "1637954020a6d00b81": {
         "type": "custom-content",
         "blocks": {
@@ -338,7 +291,6 @@
       "16378923783d90abda",
       "slideshow",
       "featured-collections",
-      "16378928690d611bdd",
       "1637954020a6d00b81",
       "1492033877875"
     ]
