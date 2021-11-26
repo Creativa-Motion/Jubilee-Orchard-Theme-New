@@ -8850,17 +8850,19 @@ hr {
   text-align: center;
   font-size: 34px;
   font-weight: 600;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
 }
 .customSectionHome h3 {
   text-align: center;
   font-size: 20px;
   font-weight: 600;
+  padding-top: 30px;
 }
 .customSectionHome p {
   text-align: center;
   font-size: 16px;
   font-weight: 300;
+  padding-bottom: 30px;
 }
 
 .customSectionHome-cols-container {
