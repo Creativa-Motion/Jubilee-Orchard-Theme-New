@@ -313,6 +313,43 @@
           "title": "SUMUN ETNA",
           "align_text": "center"
         }
+      },
+      "1637954020a6d00b81": {
+        "type": "custom-content",
+        "blocks": {
+          "1637954020a6d00b81-0": {
+            "type": "text",
+            "settings": {
+              "title": "Talk about your brand",
+              "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "1637954020a6d00b81-1": {
+            "type": "image",
+            "settings": {
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "0e230e7e-d1a6-4856-bef9-1c80e6a02be5": {
+            "type": "html",
+            "settings": {
+              "code": "<div><p>test<\/p><\/div>",
+              "width": "33%"
+            }
+          }
+        },
+        "block_order": [
+          "1637954020a6d00b81-0",
+          "1637954020a6d00b81-1",
+          "0e230e7e-d1a6-4856-bef9-1c80e6a02be5"
+        ],
+        "settings": {
+          "title": "Custom content"
+        }
       }
     },
     "content_for_index": [
@@ -321,7 +358,8 @@
       "slideshow",
       "featured-collections",
       "16378928690d611bdd",
-      "1492033877875"
+      "1492033877875",
+      "1637954020a6d00b81"
     ]
   },
   "presets": {
