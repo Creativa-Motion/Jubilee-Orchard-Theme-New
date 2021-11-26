@@ -322,7 +322,7 @@
             "settings": {
               "title": "Talk about your brand",
               "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-              "width": "50%",
+              "width": "33%",
               "alignment": "center",
               "align_text": "left"
             }
@@ -330,7 +330,7 @@
           "1637954020a6d00b81-1": {
             "type": "image",
             "settings": {
-              "width": "50%",
+              "width": "33%",
               "alignment": "center"
             }
           },
