@@ -8879,3 +8879,11 @@ hr {
   color: #333333;
   text-align: center;
 }
+
+.slideshow__text-content-list {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  justify-content: flex-end;
+  margin-left: auto;
+}
