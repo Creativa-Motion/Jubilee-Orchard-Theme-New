@@ -8938,6 +8938,10 @@ hr {
 
 /* FOOTER STYLES **/
 
+.site-footer__content {
+  align-items: stretch;
+}
+
 .site-footer__item.site-footer__item--one-half {
   padding: 40px;
   border: 2px solid white;
