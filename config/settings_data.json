@@ -137,6 +137,7 @@
       },
       "1492033877875": {
         "type": "quotes",
+        "disabled": true,
         "blocks": {
           "1492033877875-0": {
             "type": "quote",
@@ -284,6 +285,24 @@
         "settings": {
           "title": ""
         }
+      },
+      "163820870802619fce": {
+        "type": "custom-content",
+        "blocks": {
+          "8121327f-175c-421b-bd14-7a0657de20e3": {
+            "type": "html",
+            "settings": {
+              "code": "<div class=\"powr-banner-slider\" id=\"6d28a93f_1638208199\"><\/div><script src=\"https:\/\/www.powr.io\/powr.js?platform=shopify\"><\/script>",
+              "width": "100%"
+            }
+          }
+        },
+        "block_order": [
+          "8121327f-175c-421b-bd14-7a0657de20e3"
+        ],
+        "settings": {
+          "title": "TESTIMONIALS"
+        }
       }
     },
     "content_for_index": [
@@ -292,7 +311,8 @@
       "slideshow",
       "featured-collections",
       "1637954020a6d00b81",
-      "1492033877875"
+      "1492033877875",
+      "163820870802619fce"
     ]
   },
   "presets": {
