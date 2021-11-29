@@ -9043,6 +9043,12 @@ hr {
 }
 
 .section-left-image-container .section-text-container {
-  width: 40%;
+  width: 60%;
   padding: 0 5% 0 0;
+}
+
+.section-left-image-container .section-text-container h3 {
+  font-size: 25px;
+  font-weight: 600;
+  color: #4859a8;
 }
