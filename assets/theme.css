@@ -8953,3 +8953,12 @@ hr {
   font-size: 40px !important;
   font-weight: 600 !important;
 }
+
+.site-footer__rte p {
+  font-size: 16px !important;
+  font-weight: 300 !important;
+}
+
+.btn .newsletter__submit {
+  background-color: #333333 !important;
+}
