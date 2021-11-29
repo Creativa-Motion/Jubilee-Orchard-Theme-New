@@ -8959,6 +8959,7 @@ hr {
   font-weight: 300 !important;
 }
 
-.btn .newsletter__submit {
-  background-color: #333333 !important;
+.btn.newsletter__submit {
+  background-color: #333 !important;
+  padding: 12px 10px !important;
 }
