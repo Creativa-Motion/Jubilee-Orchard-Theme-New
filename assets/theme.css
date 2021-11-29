@@ -9011,16 +9011,21 @@ hr {
 
 .section-right-image-container .section-text-container {
   width: 60%;
-  padding:0 5%;
+  padding: 0 5%;
 }
 
-.section-right-image-container .section-text-container h3{
+.section-right-image-container .section-text-container h3 {
   font-size: 41px;
   font-weight: 600;
 }
 
-.section-right-image-container .section-text-container p{
+.section-right-image-container .section-text-container p {
   font-size: 16px;
   font-weight: 300;
   color: white;
+}
+
+.section-left-image-container .section-text-container {
+  width: 60%;
+  padding: 0 5%;
 }
