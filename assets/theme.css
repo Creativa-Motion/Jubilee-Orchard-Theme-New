@@ -8965,7 +8965,20 @@ hr {
 }
 
 /* ABOUT US PAGE */
-.section-right-image-container{
+.section-header {
+  background-image: url("https://cdn.shopify.com/s/files/1/0553/8588/2647/files/aboutusHeroOpt.jpg?v=1638214738");
+  margin-bottom: 0;
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-header h1 {
+  color: white;
+}
+
+.section-right-image-container {
   width: 100vw;
   position: relative;
   left: 50%;
@@ -8978,6 +8991,6 @@ hr {
   color: white;
   padding: 80px 0;
   display: flex;
-  justify-items: space-between;
+  justify-content: space-between;
   align-items: center;
 }
