@@ -8902,5 +8902,21 @@ hr {
 }
 
 .cards-widget--1WXS- .reviews-footer--b0D19 {
-    display: none !important;
+  display: none !important;
+}
+
+.cards-widget--1WXS- .single-review--15jg7 {
+  background: #ffffff;
+}
+
+.reviews-holder--1wrGp .image--Am-Nj .img--3SnbB {
+  background-size: auto !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+}
+
+.reviews-holder--1wrGp .image--Am-Nj {
+  background: #fff !important;
+  border: transparent !important;
+  color: #fff !important;
 }
