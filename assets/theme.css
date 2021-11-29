@@ -8948,7 +8948,7 @@ hr {
   margin: 20px;
 }
 
-.site-footer__item-inner .site-footer__item-inner--text h4 {
+.site-footer__item-inner .site-footer__item-inner--text p.h4 {
   color: #333333;
   font-size: 40px;
   font-weight: 600;
