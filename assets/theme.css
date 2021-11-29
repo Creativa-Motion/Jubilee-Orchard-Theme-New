@@ -8963,3 +8963,21 @@ hr {
   background-color: #333 !important;
   padding: 12px 10px !important;
 }
+
+/* ABOUT US PAGE */
+.section-right-image-container{
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background-image: url("https://cdn.shopify.com/s/files/1/0553/8588/2647/files/customSectionBgOpt.jpg?v=1637955760");
+  background-position: center center;
+  background-size: cover;
+  color: white;
+  padding: 80px 0;
+  display: flex;
+  justify-items: space-between;
+  align-items: center;
+}
