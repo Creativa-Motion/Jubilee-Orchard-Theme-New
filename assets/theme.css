@@ -7097,7 +7097,7 @@ hr {
 }
 
 .site-footer {
-  margin-top: 55px;
+  margin-top: 0px;
   padding: 45px 0 55px 0;
 }
 @media only screen and (min-width: 750px) {
