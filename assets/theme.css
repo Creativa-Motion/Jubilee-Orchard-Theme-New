@@ -8935,3 +8935,11 @@ hr {
   font-size: 16px !important;
   font-weight: 300 !important;
 }
+
+/* FOOTER STYLES **/
+
+.site-footer__item.site-footer__item--one-half {
+  padding: 40px;
+  border: 2px solid white;
+  margin: 20px;
+}
