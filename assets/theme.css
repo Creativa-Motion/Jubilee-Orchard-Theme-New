@@ -9052,3 +9052,8 @@ hr {
   font-weight: 600;
   color: #4859a8;
 }
+
+.section-left-image-container .section-text-container p {
+  font-size: 16px;
+  font-weight: 300;
+}
