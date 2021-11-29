@@ -9008,3 +9008,8 @@ hr {
   justify-content: space-between;
   align-items: center;
 }
+
+.section-right-image-container .section-text-container {
+  width: 60%;
+  padding-left: 5%;
+}
