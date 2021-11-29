@@ -9025,6 +9025,18 @@ hr {
   color: white;
 }
 
+.section-left-image-container {
+   width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .section-left-image-container .section-text-container {
   width: 60%;
   padding: 0 5%;
