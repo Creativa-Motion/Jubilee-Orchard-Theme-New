@@ -8876,9 +8876,8 @@ hr {
 
 .customSectionHome-col {
   background-color: white !important;
-  /* color: #333333; */
+  color: #333333;
   text-align: center;
-  color: red;
 }
 
 .slideshow__text-content-list {
@@ -8901,6 +8900,7 @@ hr {
   max-width: 100%;
   padding: 0 5%;
 }
-.powrMark__text {
-  display: none !important;
+
+.cards-widget--1WXS- .reviews-footer--b0D19 {
+    display: none !important;
 }
