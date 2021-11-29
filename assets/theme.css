@@ -8876,8 +8876,9 @@ hr {
 
 .customSectionHome-col {
   background-color: white !important;
-  color: #333333;
+  /* color: #333333; */
   text-align: center;
+  color: red;
 }
 
 .slideshow__text-content-list {
