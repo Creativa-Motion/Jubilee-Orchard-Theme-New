@@ -8900,6 +8900,6 @@ hr {
   max-width: 100%;
   padding: 0 5%;
 }
-.blog.js-powrMark.pad-m.pad-top-l.powrMark.text-center {
+#appView .powrMark {
   display: none !important;
 }
