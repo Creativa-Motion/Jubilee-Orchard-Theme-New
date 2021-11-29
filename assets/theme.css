@@ -9026,7 +9026,7 @@ hr {
 }
 
 .section-left-image-container {
-   width: 100vw;
+  width: 100vw;
   position: relative;
   left: 50%;
   right: 50%;
@@ -9037,7 +9037,12 @@ hr {
   align-items: center;
 }
 
+.section-left-image-container .image-container {
+  width: 40%;
+  padding: 80px 5%;
+}
+
 .section-left-image-container .section-text-container {
-  width: 60%;
-  padding: 0 5%;
+  width: 40%;
+  padding: 0 5% 0 0;
 }
