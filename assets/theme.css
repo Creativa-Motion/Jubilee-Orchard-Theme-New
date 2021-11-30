@@ -9097,8 +9097,10 @@ hr {
 }
 
 .cta-section-image-container img {
-  -o-object-fit: cover;
-  object-fit: cover;
+  background-image: url("https://cdn.shopify.com/s/files/1/0553/8588/2647/files/aboutUsImage2Opt.jpg?v=1638214495");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .cta-section-text-container {
