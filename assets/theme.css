@@ -9160,6 +9160,21 @@ hr {
 
 .product-card__title {
   display: block;
+  text-align: center;
   font-weight: bold;
   padding-bottom: 20px;
+}
+
+.product-card:focus-within .product-card__title,
+.product-card:hover .product-card__title {
+  border-bottom-color: none;
+}
+
+.price {
+  align-items: center;
+}
+
+.price-item {
+  color: #4859a8;
+  font-weight: var(--font-weight-body--bolder);
 }
