@@ -9113,11 +9113,12 @@ hr {
 }
 
 .cta-section-text-container h2 {
-  color: #333333;
+  color: #333;
   font-size: 41px;
   font-weight: 600;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   text-transform: initial;
+  letter-spacing: 0;
 }
 
 .cta-section-text-container p {
@@ -9134,5 +9135,5 @@ hr {
   line-height: 58px;
   font-weight: 600;
   background-color: #4859a8;
-  padding: 0 30px;
+  padding: 20px 40px;
 }
