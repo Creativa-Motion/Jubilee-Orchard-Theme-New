@@ -9134,10 +9134,7 @@ hr {
   font-size: 15px;
   font-weight: 600;
   background-color: #4859a8;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 20px 40px;
+  padding: 20px 40px !important;
 }
 
 .cta-section-text-container .cta-button:hover {
