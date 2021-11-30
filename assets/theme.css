@@ -9140,3 +9140,7 @@ hr {
 .cta-section-text-container .cta-button:hover {
   color: white;
 }
+
+.shopify-section .section-header {
+  background-image: none !important;
+}
