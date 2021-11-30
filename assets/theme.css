@@ -9144,3 +9144,11 @@ hr {
 .shopify-section .section-header {
   background-image: none !important;
 }
+
+#shopify-section-collection-template .section-header {
+  background-image: url("https://cdn.shopify.com/s/files/1/0553/8588/2647/files/aboutusHeroOpt.jpg?v=1638214738") !important;
+}
+
+#Collection {
+  padding-bottom: 60px;
+}
