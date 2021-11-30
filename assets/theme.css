@@ -9088,7 +9088,8 @@ hr {
   background-color: #f1f2f2;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: stretch;
+  height: 100%;
 }
 
 .cta-section-image-container,
