@@ -9103,6 +9103,10 @@ hr {
   background-size: cover;
 }
 
+.cta-section-spacer {
+  height: 100%;
+}
+
 .cta-section-text-container {
   padding: 100px;
 }
