@@ -9132,8 +9132,10 @@ hr {
 .cta-section-text-container .cta-button {
   color: white;
   font-size: 15px;
-  line-height: 58px;
   font-weight: 600;
   background-color: #4859a8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 20px 40px;
 }
