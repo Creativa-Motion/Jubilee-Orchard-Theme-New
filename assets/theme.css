@@ -9096,7 +9096,7 @@ hr {
   width: 50%;
 }
 
-.cta-section-image-container img {
+.cta-section-image-container {
   background-image: url("https://cdn.shopify.com/s/files/1/0553/8588/2647/files/aboutUsImage2Opt.jpg?v=1638214495");
   background-position: center;
   background-repeat: no-repeat;
