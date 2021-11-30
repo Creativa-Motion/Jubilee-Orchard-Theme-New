@@ -8969,8 +8969,7 @@ hr {
   padding-top: 0;
 }
 
-.section-header,
-.collection-header {
+.section-header {
   width: 100vw;
   position: relative;
   left: 50%;
@@ -8987,8 +8986,7 @@ hr {
   justify-content: center;
 }
 
-.section-header h1,
-.collection-header h1 {
+.section-header h1 {
   font-size: 65px;
   color: white !important;
   font-weight: 600;
