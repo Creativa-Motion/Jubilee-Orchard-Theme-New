@@ -105,11 +105,11 @@
         "type": "collection",
         "settings": {
           "title": "SHOP",
-          "collection": "",
+          "collection": "frontpage",
           "grid": 4,
           "rows": 1,
           "show_vendor": true,
-          "show_view_all": true
+          "show_view_all": false
         }
       },
       "product-template": {
