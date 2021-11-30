@@ -9139,3 +9139,7 @@ hr {
   align-items: center;
   padding: 20px 40px;
 }
+
+.cta-section-text-container .cta-button:hover {
+  color: white;
+}
