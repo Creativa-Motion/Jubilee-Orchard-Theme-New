@@ -9143,7 +9143,7 @@ hr {
 
 .shopify-section .section-header {
   background-image: none !important;
-  padding: 50px 0 40px !important;
+  /* padding: 50px 0 40px !important; */
 }
 
 #shopify-section-collection-template .section-header {
