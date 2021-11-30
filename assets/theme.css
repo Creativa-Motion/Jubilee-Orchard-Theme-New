@@ -8990,7 +8990,7 @@ hr {
 .section-header h1,
 .collection-header h1 {
   font-size: 65px;
-  color: white;
+  color: white !important;
   font-weight: 600;
 }
 
