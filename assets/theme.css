@@ -9076,3 +9076,18 @@ hr {
   color: #636466;
   line-height: 1.5em;
 }
+
+/** cabinet page **/
+.cta-section {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background-color: #F1F2F2 ;
+  padding: 80px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
