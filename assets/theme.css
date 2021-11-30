@@ -9112,6 +9112,7 @@ hr {
   font-size: 41px;
   font-weight: 600;
   padding-bottom: 30px;
+  text-transform: initial;
 }
 
 .cta-section-text-container p {
