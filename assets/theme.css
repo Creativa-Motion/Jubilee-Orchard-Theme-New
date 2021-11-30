@@ -9098,5 +9098,33 @@ hr {
 
 .cta-section-image-container img {
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
+}
+
+.cta-section-text-container {
+  padding: 100px;
+}
+
+.cta-section-text-container h2 {
+  color: #333333;
+  font-size: 41px;
+  font-weight: 600;
+  padding-bottom: 30px;
+}
+
+.cta-section-text-container p {
+  color: #636466;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+  padding-bottom: 30px;
+}
+
+.cta-section-text-container .cta-button {
+  color: white;
+  font-size: 15px;
+  line-height: 58px;
+  font-weight: 600;
+  background-color: #4859a8;
+  padding: 0 30px;
 }
