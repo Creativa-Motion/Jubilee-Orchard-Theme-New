@@ -9269,6 +9269,8 @@ hr {
   color: #4173a1;
   font-size: 18px;
   font-weight: 600;
+  padding: 0;
+  margin: 10px 0 20px;
 }
 
 .jubilee-section p {
@@ -9279,6 +9281,7 @@ hr {
 
 .jubilee-text-container p {
   line-height: 1.3em;
+  font-size: 16px;
   padding: 0;
   margin: 0;
 }
