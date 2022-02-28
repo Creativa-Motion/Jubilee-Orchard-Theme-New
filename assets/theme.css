@@ -9205,5 +9205,12 @@ hr {
   font-size: 14px;
   font-weight: 300;
   text-align: center;
-  padding: 30px;
+  padding: 15px 30px;
+}
+
+.jubilee-section-btn {
+  color: white;
+  background-color: #4173a1;
+  padding: 10px 20px;
+  text-transform: capitalize;
 }
