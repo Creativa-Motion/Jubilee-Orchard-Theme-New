@@ -9198,4 +9198,12 @@ hr {
   color: #4173a1;
   font-size: 18px;
   font-weight: 600;
+  padding-top: 15px;
+}
+
+.jubilee-section-col p {
+  font-size: 14px;
+  font-weight: 300;
+  text-align: center;
+  padding: 30px;
 }
