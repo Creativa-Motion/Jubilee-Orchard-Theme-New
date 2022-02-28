@@ -9265,10 +9265,22 @@ hr {
   font-weight: 600;
 }
 
+.jubilee-section h3 {
+  color: #4173a1;
+  font-size: 18px;
+  font-weight: 600;
+}
+
 .jubilee-section p {
   color: #636466;
   font-size: 16px;
   font-weight: 300;
+}
+
+.jubilee-text-container p {
+  line-height: 1.3em;
+  padding: 0;
+  margin: 0;
 }
 
 .jubilee-two-cols {
