@@ -9334,3 +9334,25 @@ hr {
 .jubilee-grid-container .item4 {
   grid-row: 4/6;
 }
+
+.jubilee-shop-two-col {
+  background-color: #eeefef;
+  display: flex;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  min-height: 300px;
+}
+
+.jubile-shop-col1,
+.jubile-shop-col2 {
+  width: 50%;
+}
+
+.jubilee-shop-two-col img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
