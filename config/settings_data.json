@@ -101,17 +101,6 @@
           "autorotate_speed": 5
         }
       },
-      "featured-collections": {
-        "type": "collection",
-        "settings": {
-          "title": "SHOP",
-          "collection": "frontpage",
-          "grid": 4,
-          "rows": 1,
-          "show_vendor": true,
-          "show_view_all": false
-        }
-      },
       "product-template": {
         "type": "product-template",
         "settings": {
@@ -133,41 +122,6 @@
           "show_vendor": false,
           "sort_enable": true,
           "tags_enable": true
-        }
-      },
-      "1492033877875": {
-        "type": "quotes",
-        "disabled": true,
-        "blocks": {
-          "1492033877875-0": {
-            "type": "quote",
-            "settings": {
-              "quote": "<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magnas aliqua ut enim ad minim veniam.<br\/><\/p>",
-              "author": "Author's name"
-            }
-          },
-          "e0226aad-9dff-407c-b122-642fde4dc27d": {
-            "type": "quote",
-            "settings": {
-              "quote": "<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magnas aliqua ut enim ad minim veniam.<br\/><\/p>",
-              "author": "Author's name"
-            }
-          },
-          "8680a95e-15d4-4b66-bdce-ac7dc78d0359": {
-            "type": "quote",
-            "settings": {
-              "quote": "<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magnas aliqua ut enim ad minim veniam.<br\/><\/p>",
-              "author": "Author's name"
-            }
-          }
-        },
-        "block_order": [
-          "1492033877875-0",
-          "e0226aad-9dff-407c-b122-642fde4dc27d",
-          "8680a95e-15d4-4b66-bdce-ac7dc78d0359"
-        ],
-        "settings": {
-          "title": "reviews"
         }
       },
       "blog-template": {
@@ -221,42 +175,6 @@
           "show_locale_selector": true
         }
       },
-      "1637954020a6d00b81": {
-        "type": "custom-content",
-        "blocks": {
-          "0e230e7e-d1a6-4856-bef9-1c80e6a02be5": {
-            "type": "html",
-            "settings": {
-              "code": "<div class=\"customSectionHome\">\n<h2>SUMUN ETNA<\/h2>\n<div class=\"customSectionHome-cols-container\">\n<div class=\"customSectionHome-col\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0553\/8588\/2647\/files\/blogImage1.jpg?v=1637892966\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<div class=\"customSectionHome-col\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0553\/8588\/2647\/files\/blogImage2.jpg?v=1637892966\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<div class=\"customSectionHome-col\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0553\/8588\/2647\/files\/blogImage3.jpg?v=1637892966\">\n<h3>LOREM ETNAS CUANT<\/h3>\n<p>Lorem ipsum dolor sit amet unas<\/p>\n<\/div>\n<\/div>\n<\/div>",
-              "width": "100%"
-            }
-          }
-        },
-        "block_order": [
-          "0e230e7e-d1a6-4856-bef9-1c80e6a02be5"
-        ],
-        "settings": {
-          "title": ""
-        }
-      },
-      "163820870802619fce": {
-        "type": "custom-content",
-        "blocks": {
-          "8121327f-175c-421b-bd14-7a0657de20e3": {
-            "type": "html",
-            "settings": {
-              "code": "<div class=\"reputon-testimonials-widget\" id=\"449be450-7e0b-11ec-b6a7-4184967a0ddc\"><\/div>",
-              "width": "100%"
-            }
-          }
-        },
-        "block_order": [
-          "8121327f-175c-421b-bd14-7a0657de20e3"
-        ],
-        "settings": {
-          "title": "TESTIMONIALS"
-        }
-      },
       "1646071809756ef7c9": {
         "type": "custom-content",
         "blocks": {
@@ -279,11 +197,7 @@
     "content_for_index": [
       "hero",
       "1646071809756ef7c9",
-      "slideshow",
-      "featured-collections",
-      "1637954020a6d00b81",
-      "1492033877875",
-      "163820870802619fce"
+      "slideshow"
     ]
   },
   "presets": {
