@@ -9211,7 +9211,16 @@ hr {
 .jubilee-section-btn {
   color: white;
   background-color: #4173a1;
-  padding: 10px 20px;
+  border: 1px solid white;
+  padding: 10px 20px !important;
+  text-transform: capitalize;
+}
+
+.jubilee-section-btn:hover {
+  color: #4173a1;
+  background-color: white;
+  border: 1px solid #4173a1;
+  padding: 10px 20px !important;
   text-transform: capitalize;
 }
 
