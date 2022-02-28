@@ -9220,13 +9220,13 @@ hr {
   font-weight: 400;
   color: #231f20;
   line-height: 1.4em;
-  text-shadow: none;
+  text-shadow: none !important;
 }
 
 .mega-subtitle--large {
   font-size: 16px;
   font-weight: 300;
-  color: #231f20;
+  color: #231f20 !important;
   line-height: 1.4em;
-  text-shadow: none;
+  text-shadow: none !important;
 }
