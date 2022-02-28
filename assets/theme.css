@@ -9376,6 +9376,23 @@ hr {
   font: 300;
 }
 
-.jubilee-shop-two-col ul {
-  list-style: circle;
+.jubilee-shop-two-col li {
+  list-style: disc;
+  padding-left: 5px;
+  margin-left: 20px;
+  color: #636466;
+  font-size: 16px;
+  font: 300;
+}
+
+.jubilee-shop-disclaimer {
+  color: #636466;
+  font-size: 16px;
+  font: 300;
+  margin: 50px;
+}
+
+.jubilee-shop-disclaimer p {
+  text-align: center;
+  padding: 0 100%;
 }
