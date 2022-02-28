@@ -9338,6 +9338,7 @@ hr {
 .jubilee-shop-two-col {
   background-color: #eeefef;
   display: flex;
+  align-items: center;
   width: 100vw;
   position: relative;
   left: 50%;
@@ -9352,8 +9353,24 @@ hr {
   width: 50%;
 }
 
+.jubilee-shop-col2 {
+ padding: 50px;
+}
+
 .jubilee-shop-two-col img {
   width: 100%;
   -o-object-fit: cover;
   object-fit: cover;
+}
+
+.jubilee-shop-two-col h2 {
+  color: #231F20;
+  font-size: 41px;
+  font-weight: 600;
+}
+
+.jubilee-shop-two-col p {
+  color: #636466;
+  font-size: 16px;
+  font: 300;
 }
