@@ -9244,14 +9244,19 @@ hr {
 /* CUSTOM PAGES STYLES */
 
 .jubilee-page-header {
-  width: 100%;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
   min-height: 300px;
 }
 
 .jubilee-page-header img {
   width: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 .jubilee-two-cols {
