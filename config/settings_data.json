@@ -80,9 +80,10 @@
           "slideshow-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/cabinsSectionBg-100.jpg",
               "alignment": "center top",
-              "slide_title": "Lorem Ipsum Dolor",
-              "subheading": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore.",
+              "slide_title": "Cabins that once offered solitude for\u0003a Governor and\u0003U.S. Senator.",
+              "subheading": "Jubilee’s cabins are steeped in history and politics. Our father, Lawton Chiles, Governor and U.S. Senator of Florida, brought together a 19th century Florida homestead on the property with two vintage log cabins dating back to 1827. Artfully restored as weekend retreats—your getaway in nature.",
               "button_label": "READ MORE",
               "button_link": "shopify:\/\/pages\/contact"
             }
