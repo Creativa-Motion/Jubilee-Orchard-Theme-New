@@ -220,72 +220,6 @@
           "show_locale_selector": true
         }
       },
-      "16378923783d90abda": {
-        "type": "feature-columns",
-        "blocks": {
-          "16378923783d90abda-0": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "title": "LOREM ETNAS CUANTUM",
-              "text": "<p>Lorem ipsum dolor sit amet consectetuer adipiscing.<\/p>",
-              "button_label": "READ MORE",
-              "button_link": "shopify:\/\/collections\/all"
-            }
-          },
-          "16378923783d90abda-1": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "title": "MAGNA ALIQU DIONAS",
-              "text": "<p>Lorem ipsum dolor sit amet consectetuer adipiscing.<\/p>",
-              "button_label": "READ MORE",
-              "button_link": "shopify:\/\/pages\/about-us"
-            }
-          },
-          "16378923783d90abda-2": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "title": "TENTA UNASO SUMUNE",
-              "text": "<p>Lorem ipsum dolor sit amet consectetuer adipiscing.<\/p>",
-              "button_label": "READ MORE",
-              "button_link": "shopify:\/\/pages\/contact"
-            }
-          },
-          "15253ad4-bc19-4a5d-b35a-62965a904ca9": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "title": "Add a title or tagline",
-              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
-          "190d4fe0-dc38-4051-9900-283c044f49e1": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "title": "Add a title or tagline",
-              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "button_label": "",
-              "button_link": ""
-            }
-          }
-        },
-        "block_order": [
-          "16378923783d90abda-0",
-          "16378923783d90abda-1",
-          "16378923783d90abda-2",
-          "15253ad4-bc19-4a5d-b35a-62965a904ca9",
-          "190d4fe0-dc38-4051-9900-283c044f49e1"
-        ],
-        "settings": {
-          "title": "",
-          "align_text": "center"
-        }
-      },
       "1637954020a6d00b81": {
         "type": "custom-content",
         "blocks": {
@@ -321,11 +255,29 @@
         "settings": {
           "title": "TESTIMONIALS"
         }
+      },
+      "1646071809756ef7c9": {
+        "type": "custom-content",
+        "blocks": {
+          "19a8d410-6b4e-4750-8bdf-d1ada544633f": {
+            "type": "html",
+            "settings": {
+              "code": "<div class=\"jubilee-section-container\">\n<div>1<\/div>\n<div>2<\/div>\n<div>3<\/div>\n<div>4<\/div>\n<div>5<\/div>\n<\/div>",
+              "width": "100%"
+            }
+          }
+        },
+        "block_order": [
+          "19a8d410-6b4e-4750-8bdf-d1ada544633f"
+        ],
+        "settings": {
+          "title": ""
+        }
       }
     },
     "content_for_index": [
       "hero",
-      "16378923783d90abda",
+      "1646071809756ef7c9",
       "slideshow",
       "featured-collections",
       "1637954020a6d00b81",
