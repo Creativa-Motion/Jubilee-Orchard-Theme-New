@@ -9178,3 +9178,11 @@ hr {
   color: #4859a8;
   font-weight: var(--font-weight-body--bolder);
 }
+
+/** CUSTOM STYLES **/
+
+.jubilee-section-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
