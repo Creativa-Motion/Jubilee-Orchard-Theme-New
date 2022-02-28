@@ -63,14 +63,14 @@
       "hero": {
         "type": "hero",
         "settings": {
-          "image": "shopify:\/\/shop_images\/homeBgopt.jpg",
-          "alignment": "center",
+          "image": "shopify:\/\/shop_images\/Jubilee_Website_Homepage_Slider_Image.jpg",
+          "alignment": "top",
           "hero_layout": "full_width",
-          "hero_size": "x-large",
+          "hero_size": "large",
           "text_size": "large",
           "title": "",
           "text": "",
-          "button_label": "SHOP NOW",
+          "button_label": "",
           "button_link": "shopify:\/\/collections"
         }
       },
@@ -80,7 +80,6 @@
           "slideshow-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/house.jpg",
               "alignment": "center top",
               "slide_title": "Lorem Ipsum Dolor",
               "subheading": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore.",
@@ -228,7 +227,6 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/icon1.png",
               "title": "LOREM ETNAS CUANTUM",
               "text": "<p>Lorem ipsum dolor sit amet consectetuer adipiscing.<\/p>",
               "button_label": "READ MORE",
@@ -239,7 +237,6 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/icon2.png",
               "title": "MAGNA ALIQU DIONAS",
               "text": "<p>Lorem ipsum dolor sit amet consectetuer adipiscing.<\/p>",
               "button_label": "READ MORE",
@@ -250,18 +247,39 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/icon3.png",
               "title": "TENTA UNASO SUMUNE",
               "text": "<p>Lorem ipsum dolor sit amet consectetuer adipiscing.<\/p>",
               "button_label": "READ MORE",
               "button_link": "shopify:\/\/pages\/contact"
+            }
+          },
+          "15253ad4-bc19-4a5d-b35a-62965a904ca9": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Add a title or tagline",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "190d4fe0-dc38-4051-9900-283c044f49e1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Add a title or tagline",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": "",
+              "button_link": ""
             }
           }
         },
         "block_order": [
           "16378923783d90abda-0",
           "16378923783d90abda-1",
-          "16378923783d90abda-2"
+          "16378923783d90abda-2",
+          "15253ad4-bc19-4a5d-b35a-62965a904ca9",
+          "190d4fe0-dc38-4051-9900-283c044f49e1"
         ],
         "settings": {
           "title": "",
