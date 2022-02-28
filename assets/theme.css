@@ -9348,6 +9348,18 @@ hr {
   min-height: 300px;
 }
 
+.jubilee-full-width {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  min-height: 300px;
+}
+
 .jubilee-shop-col1,
 .jubilee-shop-col2 {
   width: 50%;
