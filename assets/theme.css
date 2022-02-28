@@ -9353,6 +9353,7 @@ hr {
 }
 
 .jubilee-shop-two-col img {
+  width: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
