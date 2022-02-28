@@ -9261,7 +9261,8 @@ hr {
 
 .jubilee-two-cols {
   display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
+  margin: 50px 0;
 }
 
 .jubilee-col1 {
@@ -9270,4 +9271,5 @@ hr {
 
 .jubilee-col2 {
   width: 55%;
+  padding-left: 30px;
 }
