@@ -9386,13 +9386,14 @@ hr {
 }
 
 .jubilee-shop-disclaimer {
-  color: #636466;
-  font-size: 16px;
-  font: 300;
+  padding: 0 100px;
   margin: 50px;
 }
 
 .jubilee-shop-disclaimer p {
+  color: #636466;
+  font-size: 16px;
+  font: 300;
+  margin: 50px;
   text-align: center;
-  padding: 0 100px;
 }
