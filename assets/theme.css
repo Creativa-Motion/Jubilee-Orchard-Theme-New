@@ -9354,7 +9354,7 @@ hr {
 }
 
 .jubilee-shop-col2 {
- padding: 50px;
+  padding: 50px;
 }
 
 .jubilee-shop-two-col img {
@@ -9364,13 +9364,18 @@ hr {
 }
 
 .jubilee-shop-two-col h2 {
-  color: #231F20;
+  color: #231f20;
   font-size: 41px;
   font-weight: 600;
+  text-transform: none;
 }
 
 .jubilee-shop-two-col p {
   color: #636466;
   font-size: 16px;
   font: 300;
+}
+
+.jubilee-shop-two-col ul {
+  list-style: circle;
 }
