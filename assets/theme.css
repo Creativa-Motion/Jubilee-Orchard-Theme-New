@@ -9214,3 +9214,10 @@ hr {
   padding: 10px 20px;
   text-transform: capitalize;
 }
+
+.mega-title--large {
+  font-size: 38px;
+  font-weight: 400;
+  color: #231f20;
+  line-height: 1.4em;
+}
