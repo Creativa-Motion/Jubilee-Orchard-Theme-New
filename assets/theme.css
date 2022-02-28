@@ -9240,3 +9240,29 @@ hr {
 .site-footer {
   margin-top: 50px;
 }
+
+/* CUSTOM PAGES STYLES */
+
+.jubilee-page-header {
+  width: 100%;
+  min-height: 300px;
+}
+
+.jubilee-page-header img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.jubilee-two-cols {
+  display: flex;
+  align-items: flex-end;
+}
+
+.jubilee-col1 {
+  width: 45%;
+}
+
+.jubilee-col2 {
+  width: 55%;
+}
