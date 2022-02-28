@@ -9186,3 +9186,9 @@ hr {
   justify-content: space-around;
   align-items: center;
 }
+
+.jubile.section-col h3 {
+  color: #4173a1;
+  font-size: 18px;
+  font-weight: 600;
+}
