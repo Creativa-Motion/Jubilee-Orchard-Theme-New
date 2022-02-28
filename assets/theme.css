@@ -9259,6 +9259,18 @@ hr {
   object-fit: cover;
 }
 
+.jubilee-section h2 {
+  color: #4173a1;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.jubilee-section p {
+  color: #636466;
+  font-size: 16px;
+  font-weight: 300;
+}
+
 .jubilee-two-cols {
   display: flex;
   align-items: flex-start;
