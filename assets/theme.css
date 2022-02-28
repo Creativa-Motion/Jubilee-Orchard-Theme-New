@@ -9187,6 +9187,13 @@ hr {
   align-items: center;
 }
 
+.jubilee-section-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
 .jubilee-section-col h3 {
   color: #4173a1;
   font-size: 18px;
