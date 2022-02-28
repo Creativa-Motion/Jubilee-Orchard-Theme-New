@@ -262,7 +262,7 @@
           "19a8d410-6b4e-4750-8bdf-d1ada544633f": {
             "type": "html",
             "settings": {
-              "code": "<div class=\"jubilee-section-container\">\n<div>1<\/div>\n<div>2<\/div>\n<div>3<\/div>\n<div>4<\/div>\n<div>5<\/div>\n<\/div>",
+              "code": "<div class=\"jubilee-section-container\">\n<div class=\"jubilee-section-col\">\n    <img src=\"\" alt=\"U-pick\">\n    <h3>U - Pick<\/h3>\n    <p>It’s Spring and the blueberries are calling<\/p>\n    <a href=\"#\" class=\"jubilee-section-btn\">READ MORE<\/a>\n<\/div>\n<div class=\"jubilee-section-col\">\n    <img src=\"\" alt=\"Shop\">\n    <h3>Shop<\/h3>\n    <p>It’s like having an orchard at your doorstep<\/p>\n    <a href=\"#\" class=\"jubilee-section-btn\">READ MORE<\/a>\n<\/div>\n<div class=\"jubilee-section-col\">\n    <img src=\"\" alt=\"Cabins + Events\">\n    <h3>Cabins + Events<\/h3>\n    <p>Enjoy two beautifully restored cabins<\/p>\n    <a href=\"#\" class=\"jubilee-section-btn\">READ MORE<\/a>\n<\/div>\n<div class=\"jubilee-section-col\">\n    <img src=\"\" alt=\"Reviews\">\n    <h3>Reviews<\/h3>\n    <p>See what others are saying about Jubilee<\/p>\n    <a href=\"#\" class=\"jubilee-section-btn\">READ MORE<\/a>\n<\/div>\n<div class=\"jubilee-section-col\">\n    <img src=\"\" alt=\"Our Story\">\n    <h3>OurStory<\/h3>\n    <p>Our roots run deep in Florida<\/p>\n    <a href=\"#\" class=\"jubilee-section-btn\">READ MORE<\/a>\n<\/div>\n<\/div>",
               "width": "100%"
             }
           }
