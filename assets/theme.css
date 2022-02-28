@@ -9230,3 +9230,13 @@ hr {
   line-height: 1.4em;
   text-shadow: none !important;
 }
+
+.slideshow__btn {
+  background-color: transparent !important;
+  color: #231f20;
+  border: 1px solid #231f20;
+}
+
+.site-footer {
+  margin-top: 50px;
+}
