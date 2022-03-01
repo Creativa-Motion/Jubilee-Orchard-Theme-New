@@ -9422,3 +9422,10 @@ hr {
 .reviews-footer--b0D19 {
   display: none !important;
 }
+
+.carousel-widget--3jWou .single-review--15jg7 .user-block--1Eoes .image--Am-Nj {
+  width: 150px;
+  height: 150px;
+  font-size: 20px;
+  border-radius: 1000px;
+}
