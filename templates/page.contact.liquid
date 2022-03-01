@@ -2,7 +2,7 @@
   <div class="grid">
     <div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth">
       <div class="section-header text-center">
-        <h1>{{ page.title }}</h1>
+        
       </div>
 
       {% if page.content.size > 0 %}
@@ -10,7 +10,11 @@
           {{ page.content }}
         </div>
       {% endif %}
-
+      <section>
+  <div class="shop-description">
+    <h2>LET US HEAR FROM YOU</h2>
+  </div>
+</section>
       <div class="contact-form form-vertical">
         {%- assign formId = 'ContactForm' -%}
         {% form 'contact', id: formId %}

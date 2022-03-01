@@ -9324,6 +9324,24 @@ hr {
   padding: 3rem 0;
 }
 
+.jubilee-grid-container-story {
+  display: grid;
+  grid-gap: 2rem;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 150px);
+  margin: 0 auto;
+  max-width: 90%;
+  padding: 3rem 0;
+}
+
+.jubilee-grid-container-story .item1 {
+  grid-row: 1/3;
+}
+
+.jubilee-grid-container-story .item3 {
+  grid-row: 1/3;
+}
+
 .jubilee-grid-container img {
   width: 100%;
   -o-object-fit: cover;
@@ -9428,4 +9446,8 @@ hr {
   height: 150px;
   font-size: 20px;
   border-radius: 1000px;
+}
+
+.contact-form {
+  margin: 50px 0;
 }
