@@ -9443,8 +9443,8 @@ hr {
 }
 
 .carousel-widget--3jWou .single-review--15jg7 .user-block--1Eoes .image--Am-Nj {
-  width: 150px;
-  height: 150px;
+  width: 150px !important;
+  height: 150px !important;
   font-size: 20px;
   border-radius: 1000px;
 }
