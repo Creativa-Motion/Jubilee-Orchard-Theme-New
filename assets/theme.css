@@ -9477,4 +9477,17 @@ hr {
   .site-footer .h4 {
     font-size: 38px !important;
   }
+  .jubilee-page-header {
+    min-height: auto;
+  }
+  .jubilee-two-cols {
+    flex-direction: column;
+  }
+  .jubilee-col1 {
+    width: 100%;
+  }
+  .jubilee-col2 {
+    width: 100%;
+    padding-left: 0px;
+  }
 }
