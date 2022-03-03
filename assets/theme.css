@@ -9473,4 +9473,8 @@ hr {
     background-position: left;
     background-size: 200%;
   }
+
+  .site-footer .h4 {
+    font-size: 38px !important;
+  }
 }
