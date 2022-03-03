@@ -63,9 +63,10 @@
       "hero": {
         "type": "hero",
         "settings": {
-          "alignment": "top",
+          "image": "shopify:\/\/shop_images\/Jubilee_Website_Homepage_Slider_Image.jpg",
+          "alignment": "center",
           "hero_layout": "full_width",
-          "hero_size": "x-large",
+          "hero_size": "large",
           "text_size": "large",
           "title": "",
           "text": "",
