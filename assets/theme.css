@@ -9211,16 +9211,16 @@ hr {
 
 .jubilee-section-btn {
   color: white;
-  background-color: #4173a1;
+  background-color: #4859a8;
   border: 1px solid white;
   padding: 10px 20px !important;
   text-transform: capitalize;
 }
 
 .jubilee-section-btn:hover {
-  color: #4173a1;
+  color: #4859a8;
   background-color: white;
-  border: 1px solid #4173a1;
+  border: 1px solid #4859a8;
   padding: 10px 20px !important;
   text-transform: capitalize;
 }
@@ -9270,13 +9270,13 @@ hr {
 }
 
 .jubilee-section h2 {
-  color: #4173a1;
+  color: #4859a8;
   font-size: 25px;
   font-weight: 600;
 }
 
 .jubilee-section h3 {
-  color: #4173a1;
+  color: #4859a8;
   font-size: 18px;
   font-weight: 600;
   padding: 0;
