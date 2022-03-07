@@ -157,6 +157,9 @@
 
             {%- case block.type -%}
               {%- when 'newsletter' -%}
+            	<div>
+                  <p>Let us keep you up to date so you don’t miss anything at Jubilee.</p>
+            	</div>
                 <div class="site-footer__newsletter
                           {% if section.blocks.size == 1 %} site-footer__single-block--centered{% endif %}">
                   {%- assign formId = 'ContactFooter' -%}
